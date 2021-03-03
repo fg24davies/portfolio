@@ -7,27 +7,27 @@ from makers: Test-drive a simple program using objects and methods
 Pair using the driver-navigator style
 Follow an effective debugging process
 Describe some basic OO principles like encapsulation, SRP
---1.
---2.
---3.
---4.
+1.
+2.
+3.
+4.
 - How will I achieve these goals? (include resources and strategies)
---1.
---2.
---3.
---4.
+1.
+2.
+3.
+4.
 
 - What is the evidence I have achieved the goals?
---1.
---2.
---3.
---4.
+1.
+2.
+3.
+4.
 
 - How have I validated this?
---1.
---2.
---3.
---4.
+1.
+2.
+3.
+4.
 Validate: How will you know how well you did?
 
 
