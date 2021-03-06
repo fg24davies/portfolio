@@ -17,42 +17,42 @@
 #### What is the evidence I have achieved the goals?
 1. Boris Bike Challenge repository here.
 2. Pair-programming reflections are included in my daily reflections below
-3. I know that follow the process of Tightening the Loop (where I find the exact line of code that is causing the problem), Get visibility (use printing to understand what each variable/object is) and then attempt to change **one thing**.
-4. Discussions with my pair partner before we started on our learning from this morning
-
-#### How have I validated this?
-1.
-2.
-3 
-4. 
-Validate: How will you know how well you did?
-
+3. Completed the Debugging exercises on FizzBuzz and the Cipher. I know that follow the process of Tightening the Loop (where I find the exact line of code that is causing the problem), Get visibility (use printing to understand what each variable/object is) and then attempt to change **one thing**.
+4. Discussions with my pair partner before we start on our learning from this morning
 
 ### Daily Goals
 Monday 01/03/2021
 - Intro to Makers Day
+
 Tuesday 02/03/2021
-- Be able to write a couple of concise sentences on Encapsulation
+- AIM: Be able to write a couple of concise sentences on Encapsulation
+- PLAN: Complete Practicals on encapsulation 
+- EVIDENCE: Ex 1 - 3 in Encapsulation practical. Discussed with my pair partner our understanding of encapsulation.
+
 Wednesday 03/03/2021
 - AIM: To be able to debug some code
 - PLAN: Attend the debugging workshop and work through debugging exercises
-- EVIDENCE: 
+- EVIDENCE: Finished both the fizzbuzz and cipher exercises on debugging (ADD LINKS)
 
 Thursday 04/03/2021
+- AIM: Practise and develop TDD
+- PLAN: Attend the TDD workshop, complete the TDD for the dice exercise, continue with boris bike challenge
+- EVIDENCE: Boris Bike challenge with RSpec tests
 
 Friday 05/03/2021
+- AIM: Continue to develop TDD and best practice pair-programming
+- PLAN: Get feedback from my partner on pair programming 
 
-### Daily Reflection
+### Weekly Reflection
 
-**Tuesday 02/03/2021
+What went well?
+- I now have a clearer understanding of how I will record my learning/evidence my goals which should improve time management next week
+- I enjoyed pair programming with 3 different partners and will take feedback and the new processes I learnt into next week.
+- Debugging is becoming alot faster - understanding the process of tightening the loop (identifying the line of code), getting visibility by printing alot and then only trying to fix that one thing.
 
-- have a clearer understanding of how I will record my learning/evidence my goals
-- initial pair programming session: my partner was good at slowing down the process, which I will try to take forward.
-  Try to be more even with timing and switching of roles.
+What is there to improve on?
+- Being more vocal in the driver seat of pair programming
+- Make sure to agree with my pairing partner how frequently we'd switch between driver/navigator, to avoid unequal pairing
+- Becoming more comfortable with breaking down User Stories to aid TDD.
   
-**Wednesday 03/03/2021
-
-**Thursday 04/03/2021
-
-**Friday 05/03/2021
 
