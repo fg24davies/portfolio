@@ -12,7 +12,7 @@
 1. 
 2. 
 3. Use the practicals and skills workshops given for mocking.
-4. Watch the video explaining what reviews are, attend the process workshop, use the [code review rubric (https://github.com/makersacademy/airport_challenge/blob/master/docs/review.md)
+4. Watch the video explaining what reviews are, attend the process workshop, use the [code review rubric](https://github.com/makersacademy/airport_challenge/blob/master/docs/review.md)
 
 #### What is the evidence I have achieved the goals?
 1. 
