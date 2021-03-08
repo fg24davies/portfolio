@@ -24,20 +24,21 @@
 
 Monday 08/03/2021
 
-AIM: To do a formal review of my pair partner's weekend challenge 
-PLAN: To attend the workshop, read through the [code review guide](https://github.com/makersacademy/course/blob/master/how-to/code-review.md)
-EVIDENCE: Submitted my review of code to my pair partner and discussed feedback
+- AIM: To do a formal review of my pair partner's weekend challenge 
+- PLAN: To attend the workshop, read through the [code review guide](https://github.com/makersacademy/course/blob/master/how-to/code-review.md)
+- EVIDENCE: Submitted my review of code to my pair partner and discussed feedback
 
-Tuesday 09/09/2021
+Tuesday 09/03/2021
 
-AIM: To do the practicals on Mocking and consolidate learning on doubling
-PLAN: Use the Mocking skills workshop and then the mocking practical given in the resources.
-EVIDENCE: 
+- AIM: To do the practicals on Mocking and consolidate learning on doubling
+- PLAN: Use the Mocking skills workshop and then the mocking practical given in the resources.
+- EVIDENCE: 
 
+Wednesday 10/03/2021
 
-Wednesday
-Thursday
-Friday 
+Thursday 11/03/2021
+
+Friday 12/03/2021
 
 ### Weekly Reflection
 
