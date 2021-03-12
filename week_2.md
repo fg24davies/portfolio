@@ -9,16 +9,17 @@
 4. Review another person's code and give them meaningful feedback
 
 #### How will I achieve these goals? (include resources and strategies)
-1. Attend the Domain modelling workshop and use the extra resources
-2. 
-3. Use the practicals and skills workshops given for mocking.
+1. By completing the afternoon weekly challenge in the pair programming sessions and the weekend challenge
+2. Attend the mocking workshop, use the practicals and skills workshops given for mocking in a pair program session
+3. 
 4. Watch the video explaining what reviews are, attend the process workshop, use the [code review rubric](https://github.com/makersacademy/airport_challenge/blob/master/docs/review.md) for the weekeend code review.
 
 #### What is the evidence I have achieved the goals?
-1. 
-2. 
+
+1. [Oyster card weekly challenge]
+2. [Mocking practicals] and discussion with pair partner on Friday about mocking
 3. 
-4.
+4. My first review of my partners weekend challenge
 
 ### Daily Goals
 
