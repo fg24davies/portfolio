@@ -29,3 +29,12 @@ Thursday
 Friday 
 
 ### Weekly Reflection
+
+What went well?
+What can I improve on?
+
+|Key:     ||
+|---------------|-----------|
+|Confident:     |:dancer:|
+|Less Confident:|:confused:  |
+|Lost:          |:scream:   |
