@@ -17,8 +17,8 @@
 #### What is the evidence I have achieved the goals?
 
 1. [Oyster card weekly challenge](https://github.com/fg24davies/oyster_card_challenge)
-2. [Mocking practicals] and discussion with pair partner on the Friday about mocking
-3. [OO Relationships (Forwarding, Polymorphism) practicals]
+2. [Mocking practicals](https://github.com/fg24davies/makers_learning_journey/tree/master/week_2/testing_relationships_between_classes) and discussion with pair partner on the Friday about mocking
+3. [OO Relationships (Forwarding, Polymorphism) practicals](https://github.com/fg24davies/makers_learning_journey/tree/master/week_2/object_oriented_design)
 4. My first review of my partners weekend challenge
 
 ### Daily Goals
@@ -33,7 +33,7 @@ Tuesday 09/03/2021
 
 - AIM: To learn about mocking and consolidate learning on doubling
 - PLAN: Use the Mocking skills workshop and then the mocking practical given in the resources.
-- EVIDENCE: Instead, the afternoon challenge [Oystercard](https://github.com/fg24davies/oyster_card_challenge) focussed on using mocking and stubs
+- EVIDENCE: Changed plan during the day due to workshop but instead, the afternoon challenge [Oystercard](https://github.com/fg24davies/oyster_card_challenge) focussed on using mocking and stubs
 
 Wednesday 10/03/2021
 
@@ -51,7 +51,7 @@ Friday 12/03/2021
 
 - AIM: To learn more practical on OOP principle
 - PLAN: To do the Forwarding and Polymorphism Practical - specifically dependency injection
-- EVIDENCE: [OOP Relationships practical]
+- EVIDENCE: [OOP Relationships practical](https://github.com/fg24davies/makers_learning_journey/tree/master/week_2/object_oriented_design)
 
 ### Weekly Reflection
 
