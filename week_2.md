@@ -47,3 +47,9 @@ What went well?
 What is there to improve on?
 
 
+|Key:     ||
+|---------------|-----------|
+|Confident:     |:nail_care:|
+|Less Confident:|:no_good:  |
+|Lost:          |:scream:   |
+
