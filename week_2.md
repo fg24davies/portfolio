@@ -39,7 +39,7 @@ Wednesday 10/03/2021
 
 - AIM: To learn more about domain modelling and create a process
 - PLAN: To attend the workshop
-- EVIDENCE: Have taken the template of breaking down user stories in Nouns/Actions to use in my upcoming challenges.
+- EVIDENCE: [Domain modelling exercises](https://github.com/fg24davies/makers_learning_journey/tree/master/week_2/domain_modelling)
 
 Thursday 11/03/2021
 
