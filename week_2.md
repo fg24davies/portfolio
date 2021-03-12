@@ -3,7 +3,7 @@
 ### Weekly Goals
 #### Goals
 
-1. Break one class into two classes that work together, while maintaining test coverage :dance: 
+1. Break one class into two classes that work together, while maintaining test coverage :dancer: 
 2. Unit test classes in isolation using mocking :dancer:
 3. Explain some basic OO principles and tie them to high level concerns (e.g. ease of change) :confused:
 4. Review another person's code and give them meaningful feedback :dancer:
