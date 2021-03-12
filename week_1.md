@@ -9,16 +9,16 @@
 4. Describe basic Object-Oriented principles: Encapsulation and SRP
 
 #### How will I achieve these goals? (include resources and strategies)
-1. Attend the TDD workshop and complet the weekly challenges: Boris Bikes
+1. Attend the TDD workshop and complete the weekly challenge: Boris Bikes
 2. Pairprogram every afternoon with a different member of the cohort, include a 10minute feedback chat to reflect
 3. Attend debugging skills workshop, use the debugging practicals
 4. Use the resources in skills and workshop to
 
 #### What is the evidence I have achieved the goals?
-1. Boris Bike Challenge repository here.
-2. Pair-programming reflections are included in my daily reflections below
-3. Completed the Debugging exercises on FizzBuzz and the Cipher. I know that follow the process of Tightening the Loop (where I find the exact line of code that is causing the problem), Get visibility (use printing to understand what each variable/object is) and then attempt to change **one thing**.
-4. Discussions with my pair partner before we start on our learning from this morning
+1. [Boris Bike Challenge](https://github.com/fg24davies/boris_bike_challenge) and the TDD workshop [Dice exercise](https://github.com/fg24davies/makers_learning_journey/tree/master/week_1/tdd_workshop)
+2. Pair-programming reflections are included in my reflections below
+3. Completed the [Debugging exercises](https://github.com/fg24davies/makers_learning_journey/tree/master/week_1/debugging_workshop) on FizzBuzz and the Cipher. I know that follow the process of Tightening the Loop (where I find the exact line of code that is causing the problem), Get visibility (use printing to understand what each variable/object is) and then attempt to change **one thing**.
+4. The [Airport weekend challenge](https://github.com/fg24davies/airport_challenge-1) involved OOP principles such as encapsulation and SRP - one method does one thing only.
 
 ### Daily Goals
 Monday 01/03/2021
@@ -42,6 +42,7 @@ Thursday 04/03/2021
 Friday 05/03/2021
 - AIM: Continue to develop TDD and best practice pair-programming
 - PLAN: Get feedback from my partner on pair programming 
+- EVIDENCE: Reflecting on my feedback below 
 
 ### Weekly Reflection
 
