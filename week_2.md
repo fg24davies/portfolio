@@ -6,7 +6,7 @@
 1. Break one class into two classes that work together, while maintaining test coverage :dancer: 
 2. Unit test classes in isolation using mocking :dancer:
 3. Explain some basic OO principles and tie them to high level concerns (e.g. ease of change) :confused:
-4. Review another person's code and give them meaningful feedback :dancer:
+4. Review another person's code and give them meaningful feedback :confused:
 
 #### How will I achieve these goals? (include resources and strategies)
 1. By completing the afternoon weekly challenge in the pair programming sessions and the weekend challenge
@@ -50,7 +50,7 @@ Thursday 11/03/2021
 Friday 12/03/2021
 
 - AIM: To learn more practical on OOP principle
-- PLAN: To do the Forwarding and Polymorphism Practical
+- PLAN: To do the Forwarding and Polymorphism Practical - specifically dependency injection
 - EVIDENCE: [OOP Relationships practical]
 
 ### Weekly Reflection
