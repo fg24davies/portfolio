@@ -16,7 +16,7 @@
 
 #### What is the evidence I have achieved the goals?
 
-1. [Oyster card weekly challenge](https://github.com/fg24davies/oyster_card_challenge)
+1. [Oyster card weekly challenge](https://github.com/fg24davies/oyster_card_challenge), [Take-away challenge](https://github.com/fg24davies/takeaway-challenge/blob/master/README.md)
 2. [Mocking practicals](https://github.com/fg24davies/makers_learning_journey/tree/master/week_2/testing_relationships_between_classes) and discussion with pair partner on the Friday about mocking
 3. [OO Relationships (Forwarding, Polymorphism) practicals](https://github.com/fg24davies/makers_learning_journey/tree/master/week_2/object_oriented_design)
 4. My first review of my partners weekend challenge
