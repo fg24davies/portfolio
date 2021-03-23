@@ -8,6 +8,9 @@
 3. Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS) :dancer:
 4. Explain the MVC pattern :dancer:
 
+From Week 1 and 2:
+5. TDD and RSpec :confused:
+
 #### How will I achieve these goals? (include resources and strategies)
 1. The afternoon challenge Battles and weekend challenge
 2. Attend the skills workshop on debugging and use the resources given there
@@ -30,27 +33,27 @@ EVIDENCE: [Repo of Mondays pair programming session](https://github.com/fg24davi
 
 Tuesday 16/03/2021
 
-AIM: To understand the request/response behaviour of the Web 
-PLAN: To attend the how the web work workshop and complete practicals
-EVIDENCE: [Process modelling of request/response](https://github.com/fg24davies/makers_learning_journey/blob/master/week_3/how_the_web_works/process_modelling.md)
+- AIM: To understand the request/response behaviour of the Web 
+- PLAN: To attend the how the web work workshop and complete practicals
+- EVIDENCE: [Process modelling of request/response](https://github.com/fg24davies/makers_learning_journey/blob/master/week_3/how_the_web_works/process_modelling.md)
 
 Wednesday 17/03/2021 (EQ workshop in the morning)
 
-AIM: To build on goals 1 and 3 - further understanding of how the web works and continue to build simple web app
-PLAN: Afternoon challenge
-EVIDENCE:
+- AIM: To build on goals 1 and 3 - further understanding of how the web works and continue to build simple web app
+- PLAN: Afternoon challenge
+- EVIDENCE:
 
 Thursday 18/03/2021
 
-AIM: To know and be able to follow an effective debugging process for web applications
-PLAN: Attend workshop and complete practicals in workshop/after
-EVIDENCE: 
+- AIM: To know and be able to follow an effective debugging process for web applications
+- PLAN: Attend workshop and complete practicals in workshop/after
+- EVIDENCE: 
 
 Friday 19/03/2021
 
-AIM: To explain the MVC Pattern
-PLAN: To first read, watch a video and then practise myself with the skills workshop
-EVIDENCE: 
+- AIM: To explain the MVC Pattern
+- PLAN: To first read, watch a video and then practise myself with the skills workshop
+- EVIDENCE: 
 
 ### Weekly Reflection
 
