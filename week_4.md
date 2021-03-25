@@ -38,14 +38,14 @@
 
 #### Wednesday 24/03/2021
 
-- AIM: Learn about a database structure from domain structure
+- AIM: Learn about a database structure and relational databases from domain structure
 - PLAN: To attend CRC cards workshop
-- EVIDENCE: [CRC cards skills workshop]
+- EVIDENCE: [CRC cards skills workshop](https://github.com/fg24davies/makers_learning_journey/tree/master/week_4/domain_modelling_student_directory_using_crc_cards)
 
 #### Thursday 25/03/2021
 
-- AIM:
-- PLAN:
+- AIM: To go over a few week1 and week2 principles to address knowledge gaps
+- PLAN: Practicals in 1:1 with a coach
 - EVIDENCE:
 
 #### Friday 26/03/2021 
