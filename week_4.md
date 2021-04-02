@@ -3,9 +3,9 @@
 ### Weekly Goals
 #### Goals
 
-1. Build a simple web app with a database
-2. Follow an effective debugging process for database applications
-3. Explain the basics of how databases work (e.g. tables, SQL, basic relationships between tables)
+1. Build a simple web app with a database :dancer:
+2. Follow an effective debugging process for database applications :dancer:
+3. Explain the basics of how databases work (e.g. tables, SQL, basic relationships between tables) :confused:
 
 
 #### How will I achieve these goals? (include resources and strategies)
@@ -17,10 +17,9 @@
 
 #### What is the evidence I have achieved the goals?
 
-1. Built two simple web apps with databases: [Bookmark Manager](https://github.com/fg24davies/bookmark_manager) and [Chitter]
-2. SQL Practicals
-3. [CRC cards] skills workshop: completed ....
-
+1. Built two simple web apps with databases: [Bookmark Manager](https://github.com/fg24davies/bookmark_manager) and [Chitter](https://github.com/fg24davies/chitter-challenge)
+2. [SQL Practicals](https://github.com/fg24davies/makers_learning_journey/blob/master/week_4/SQLZoo_Answers.md)
+3. [CRC cards](https://github.com/fg24davies/makers_learning_journey/tree/master/week_4/domain_modelling_student_directory_using_crc_cards)
 
 ### Daily Goals
 
@@ -44,22 +43,18 @@
 
 #### Thursday 25/03/2021
 
-- AIM: To go over a few week1 and week2 principles to address knowledge gaps
+- AIM: To go over a couple week1 and week2 principles (class interaction, dependency injection) to address knowledge gaps
 - PLAN: Practicals in 1:1 with a coach
-- EVIDENCE:
-
-#### Friday 26/03/2021 
-
-- AIM:
-- PLAN:
-- EVIDENCE:
+- EVIDENCE: I feel more comfortable with the role of classes. The 1:1 also helped me pinpoint areas of learning that I need to work out and appreciate what I have learnt.
 
 ### Weekly Reflection
 
-
-What went well?
+What went well? 
+During this week, we were introduced to SQL and databases. I enjoyed the SQL practicals and the idea of querying the database. I also feel happy to set up a database and testing environment. Chitter Challenge I focussed on the TDD process so I am pleased with this.
 
 What can I improve on?
+The relationships between tables within my database.
+
 
 
 |Key:     ||
