@@ -29,9 +29,10 @@ EVIDENCE:
 
 Tuesday 13/04/21
 
-AIM: To understand writing tests without using an external framework
+AIM: To understand writing tests without using an external framework.
 PLAN: To watch the [Makers video](https://www.youtube.com/watch?v=HyGnxxKJmeQ) on testing frameworks and practise this with my pair partner in the afternoon challenge
-EVIDENCE: 
+https://github.com/makersacademy/course/blob/master/pills/writing_tests_without_a_testing_library.md
+EVIDENCE: [Repo]() of notes and resources
 
 Wednesday 14/04/21
 
